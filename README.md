@@ -1,4 +1,4 @@
-# Calculadora IMC - Gustavo Kovaleski Estlin
+# Calculadora IMC - Felipe Pecil
 <hr>
 <h2>Descrição do desafio:</h2>
 Desenvolva uma aplicação que calcule o IMC de indivíduos. Para isso, você deve
@@ -28,7 +28,7 @@ você achar necessário;
 <h2>Como executar o projeto: </h2>
 <h3> Acesso direto: </h3>
 
-• Acessando diretamente pelo link: http://kovaleski.kinghost.net/
+• Acessando diretamente pelo link: http://pecil.kinghost.net/
 
 <h3> Para executar localmente em Sistemas Windows: </h3>
 
